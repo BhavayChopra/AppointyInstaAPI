@@ -1,7 +1,7 @@
 # Task  | Instagram Backend API
 
-Name: Susruta Das
-Registration Number: 19BEC1366
+Name: Bhavay Chopra
+Registration Number: 19BEC1411
 University: Vellore Institute of Technology, Chennai
 
 
