@@ -1,0 +1,2 @@
+# AppointyInstaAPI
+Appointy tech task
